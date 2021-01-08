@@ -389,7 +389,7 @@
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
@@ -463,6 +463,7 @@
 
 ## JavaScript 
 
+- [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market.
 - [docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects) - Project codes used in "The Kubernetes Handbook" :notebook:
@@ -516,7 +517,6 @@
 - [privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [youtube-classic-extension](https://github.com/xxzefgh/youtube-classic-extension) - Restore Classic YouTube!
-- [QookieFix](https://github.com/vtoubiana/QookieFix) - Code for the QookieFix extension
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps
@@ -849,7 +849,6 @@
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-- [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -867,7 +866,6 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
-- [Theano](https://github.com/Theano/Theano) - Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -889,8 +887,6 @@
 - [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
-- [nose](https://github.com/nose-devs/nose) - nose is nicer testing for python
-- [docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [cpython](https://github.com/python/cpython) - The Python programming language
@@ -914,9 +910,6 @@
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
-- [fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
-- [vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
-- [i3wm-themer](https://github.com/unix121/i3wm-themer) - 🎨 Theme collection manager for i3-wm
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
@@ -933,6 +926,7 @@
 
 ## QML 
 
+- [whisperfish](https://github.com/aebruno/whisperfish) - Signal client for Sailfish OS
 - [pure-maps](https://github.com/rinigus/pure-maps) - Maps and navigation
 - [harbour-systemmonitor](https://github.com/custodian/harbour-systemmonitor) - Monitor SailfishOS for basic system activity
 - [harbour-sailbook](https://github.com/DylanVanAssche/harbour-sailbook) - Sailbook is an unofficial Facebook client for Sailfish OS
@@ -1011,6 +1005,7 @@
 
 ## Scala 
 
+- [mill](https://github.com/lihaoyi/mill) - Your shiny new Java/Scala build tool!
 - [fpinscala](https://github.com/fpinscala/fpinscala) - Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"
 - [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [circe](https://github.com/circe/circe) - Yet another JSON library for Scala
